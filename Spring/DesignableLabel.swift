@@ -6,7 +6,7 @@
 //  Copyright (c) 2014 Meng To. All rights reserved.
 //
 
-import UIKit
+import UIKit1231231313
 
 @IBDesignable class DesignableLabel: SpringLabel {
 
